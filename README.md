@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @samueil-idris
-- 👀 I’m interested in web apps & pixel art games
-- 🌱 I’m currently learning godot & web dev
-- 💞️ I’m looking to collaborate on 2d pixel art games
+- 👀 I’m interested in iOS app development & 2d games
 - 📫 How to reach me via moinsaat@gmail.com
 
 <!---
