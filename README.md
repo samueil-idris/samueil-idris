@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @samueil-idris
-- 👀 I’m interested in iOS app development & 2d games
+- 👋 Hello there...
+- 👀 I’m interested in apps development & 2d games
 - 📫 How to reach me via moinsaat@gmail.com
 
 <!---
